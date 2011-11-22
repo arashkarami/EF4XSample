@@ -1,0 +1,14 @@
+D:\Me\arash.im\projects\Arash\Infrastructure\bin\Debug\EntityFramework.dll
+D:\Me\arash.im\projects\Arash\Infrastructure\bin\Debug\EntityFramework.xml
+D:\Me\arash.im\projects\Arash\Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+D:\Me\arash.im\projects\Arash\Infrastructure\bin\Debug\Arash.Infrastructure.dll
+D:\Me\arash.im\projects\Arash\Infrastructure\bin\Debug\Arash.Infrastructure.pdb
+D:\Me\arash.im\projects\Arash\Infrastructure\obj\Debug\Arash.Infrastructure.dll
+D:\Me\arash.im\projects\Arash\Infrastructure\obj\Debug\Arash.Infrastructure.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Infrastructure\bin\Debug\Arash.Infrastructure.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Infrastructure\bin\Debug\Arash.Infrastructure.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Infrastructure\obj\Debug\Arash.Infrastructure.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Infrastructure\obj\Debug\Arash.Infrastructure.pdb

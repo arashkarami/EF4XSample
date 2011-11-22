@@ -1,0 +1,34 @@
+D:\Me\arash.im\projects\Arash\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Me\arash.im\projects\Arash\DataAccess\bin\Debug\EntityFramework.dll
+D:\Me\arash.im\projects\Arash\DataAccess\bin\Debug\EntityFramework.xml
+D:\Me\arash.im\projects\Arash\DataAccess\bin\Debug\Arash.Membership.dll
+D:\Me\arash.im\projects\Arash\DataAccess\bin\Debug\Arash.Utility.dll
+D:\Me\arash.im\projects\Arash\DataAccess\bin\Debug\Arash.Membership.pdb
+D:\Me\arash.im\projects\Arash\DataAccess\bin\Debug\Arash.Utility.pdb
+D:\Me\arash.im\projects\Arash\DataAccess\bin\Debug\Arash.DataAccess.dll
+D:\Me\arash.im\projects\Arash\DataAccess\bin\Debug\Arash.DataAccess.pdb
+D:\Me\arash.im\projects\Arash\DataAccess\bin\Debug\Arash.Core.dll
+D:\Me\arash.im\projects\Arash\DataAccess\bin\Debug\Arash.Infrastructure.dll
+D:\Me\arash.im\projects\Arash\DataAccess\bin\Debug\Arash.Restaurant.dll
+D:\Me\arash.im\projects\Arash\DataAccess\bin\Debug\Arash.Core.pdb
+D:\Me\arash.im\projects\Arash\DataAccess\bin\Debug\Arash.Infrastructure.pdb
+D:\Me\arash.im\projects\Arash\DataAccess\bin\Debug\Arash.Restaurant.pdb
+D:\Me\arash.im\projects\Arash\DataAccess\obj\Debug\Arash.DataAccess.dll
+D:\Me\arash.im\projects\Arash\DataAccess\obj\Debug\Arash.DataAccess.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\bin\Debug\Arash.DataAccess.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\bin\Debug\Arash.DataAccess.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\bin\Debug\Arash.Core.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\bin\Debug\Arash.Infrastructure.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\bin\Debug\Arash.Membership.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\bin\Debug\Arash.Restaurant.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\bin\Debug\Arash.Utility.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\bin\Debug\Arash.Core.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\bin\Debug\Arash.Infrastructure.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\bin\Debug\Arash.Membership.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\bin\Debug\Arash.Restaurant.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\bin\Debug\Arash.Utility.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\obj\Debug\Arash.DataAccess.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\DataAccess\obj\Debug\Arash.DataAccess.pdb

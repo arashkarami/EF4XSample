@@ -1,0 +1,22 @@
+D:\Me\arash.im\projects\Arash\Restaurant\bin\Debug\EntityFramework.dll
+D:\Me\arash.im\projects\Arash\Restaurant\bin\Debug\EntityFramework.xml
+D:\Me\arash.im\projects\Arash\Restaurant\obj\Debug\ResolveAssemblyReference.cache
+D:\Me\arash.im\projects\Arash\Restaurant\bin\Debug\Arash.Restaurant.dll
+D:\Me\arash.im\projects\Arash\Restaurant\bin\Debug\Arash.Restaurant.pdb
+D:\Me\arash.im\projects\Arash\Restaurant\bin\Debug\Arash.Core.dll
+D:\Me\arash.im\projects\Arash\Restaurant\bin\Debug\Arash.Infrastructure.dll
+D:\Me\arash.im\projects\Arash\Restaurant\bin\Debug\Arash.Core.pdb
+D:\Me\arash.im\projects\Arash\Restaurant\bin\Debug\Arash.Infrastructure.pdb
+D:\Me\arash.im\projects\Arash\Restaurant\obj\Debug\Arash.Restaurant.dll
+D:\Me\arash.im\projects\Arash\Restaurant\obj\Debug\Arash.Restaurant.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Restaurant\bin\Debug\Arash.Restaurant.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Restaurant\bin\Debug\Arash.Restaurant.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Restaurant\bin\Debug\Arash.Core.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Restaurant\bin\Debug\Arash.Infrastructure.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Restaurant\bin\Debug\EntityFramework.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Restaurant\bin\Debug\Arash.Core.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Restaurant\bin\Debug\Arash.Infrastructure.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Restaurant\bin\Debug\EntityFramework.xml
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Restaurant\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Restaurant\obj\Debug\Arash.Restaurant.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Restaurant\obj\Debug\Arash.Restaurant.pdb

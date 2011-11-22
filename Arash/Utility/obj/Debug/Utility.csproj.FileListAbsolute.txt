@@ -1,0 +1,10 @@
+D:\Me\arash.im\projects\Arash\Utility\obj\Debug\ResolveAssemblyReference.cache
+D:\Me\arash.im\projects\Arash\Utility\bin\Debug\Arash.Utility.dll
+D:\Me\arash.im\projects\Arash\Utility\bin\Debug\Arash.Utility.pdb
+D:\Me\arash.im\projects\Arash\Utility\obj\Debug\Arash.Utility.dll
+D:\Me\arash.im\projects\Arash\Utility\obj\Debug\Arash.Utility.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Utility\bin\Debug\Arash.Utility.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Utility\bin\Debug\Arash.Utility.pdb
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Utility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Utility\obj\Debug\Arash.Utility.dll
+C:\Users\arashkarami\Documents\My Dropbox\Public\Arash\Utility\obj\Debug\Arash.Utility.pdb
